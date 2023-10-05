@@ -1,2 +1,3 @@
 # Learning-Demo
 My first project to learn Git and GitHub working
+Author-Sunitha Sree
